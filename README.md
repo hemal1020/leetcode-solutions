@@ -1,7 +1,7 @@
 # LeetCode Solutions
 
 10+ LeetCode problems solved as part of ongoing algorithmic practice. Companion collection to my
-[Codeforces solutions](PASTE_URL_HERE) repo.
+[Codeforces solutions](https://github.com/hemal1020/codeforces-solutions.git) repo.
 
 | Problem | Name | Difficulty | Tags |
 |---|---|---|---|
